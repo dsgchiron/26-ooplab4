@@ -1,0 +1,15 @@
+/workspaces/26-ooplab4/bin/Debug/net10.0/26-ooplab4
+/workspaces/26-ooplab4/bin/Debug/net10.0/26-ooplab4.deps.json
+/workspaces/26-ooplab4/bin/Debug/net10.0/26-ooplab4.runtimeconfig.json
+/workspaces/26-ooplab4/bin/Debug/net10.0/26-ooplab4.dll
+/workspaces/26-ooplab4/bin/Debug/net10.0/26-ooplab4.pdb
+/workspaces/26-ooplab4/obj/Debug/net10.0/26-ooplab4.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/26-ooplab4/obj/Debug/net10.0/26-ooplab4.AssemblyInfoInputs.cache
+/workspaces/26-ooplab4/obj/Debug/net10.0/26-ooplab4.AssemblyInfo.cs
+/workspaces/26-ooplab4/obj/Debug/net10.0/26-ooplab4.csproj.CoreCompileInputs.cache
+/workspaces/26-ooplab4/obj/Debug/net10.0/26-ooplab4.sourcelink.json
+/workspaces/26-ooplab4/obj/Debug/net10.0/26-ooplab4.dll
+/workspaces/26-ooplab4/obj/Debug/net10.0/refint/26-ooplab4.dll
+/workspaces/26-ooplab4/obj/Debug/net10.0/26-ooplab4.pdb
+/workspaces/26-ooplab4/obj/Debug/net10.0/26-ooplab4.genruntimeconfig.cache
+/workspaces/26-ooplab4/obj/Debug/net10.0/ref/26-ooplab4.dll
